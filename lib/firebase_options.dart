@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD0LwLWupdtcjk0VMKQjIbbg1LiY027ji0',
+    apiKey: 'add api key',
     appId: '1:513093706419:android:4410d83c91e1af975746c6',
     messagingSenderId: '513093706419',
     projectId: 'coding-minds-app-helen-chau',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD98LxhzncDLlLNAW7CHIu80RioUDxBS8s',
+    apiKey: 'add api key',
     appId: '1:513093706419:ios:50e38b6cdf91c7d35746c6',
     messagingSenderId: '513093706419',
     projectId: 'coding-minds-app-helen-chau',
